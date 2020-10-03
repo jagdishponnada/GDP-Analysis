@@ -1,6 +1,6 @@
 # GDP-Analysis-of-India
 
-NITI Aayog: Background
+## NITI Aayog: Background
 
 NITI Aayog (National Institution for Transforming India) is a policy think tank of the Government of India; 
 it provides strategic inputs to the central and the state governments to achieve various development goals. 
@@ -8,12 +8,6 @@ In the past, NITI Aayog has played an important role in initiatives such as Digi
 and various agricultural reforms and have designed various policies in education, skill development, water management, 
 healthcare, etc. 
  
-NITI Aayog was established to replace the Planning Commission of India, which used to follow a top-down model for policy making, i.e., it typically designed policies at the central level (such as the 5-year plans). On the other hand, NITI Aayog designs policies specific to the different states or segments of the economy.
- 
-Finance Minister, Arun Jaitley, made the following observation on the necessity of creating NITI Aayog, 
-"The 65-year-old Planning Commission had become a redundant organisation. It was relevant in a command economy structure,
-but not any longer. India is a diversified country and its states are in various phases of economic development along with 
-their own strengths and weaknesses. In this context, a ‘one size fits all’ approach to economic planning is obsolete...".
  
 ## Project Brief:
 
@@ -36,3 +30,36 @@ Total GDP divided by the population gives the per capita GDP, which roughly meas
 India ranks 11th in the world in terms of total GDP; however, it lies at the 139th position in terms of per capita GDP.
 
 All Datasets are goverment dataseet from (URL: https://data.gov.in/ )
+
+
+
+## Key Results
+- Mizoram is the consistently growing state and Goa is consistently declining as per GSDP.
+- Tamil Nadu has the highest GSDP where as Sikkim has the lowest GSDP.
+- Goa has highest per capita GDP where as Bihar has lower per capita GDP.
+- The percentage contribution of Primary, Secondary and Tertiary sectors to the overall GSDP of all states combined is 20,26 and 46 percentage respectively.
+- Dropout in upper primary has highest negative correlation with the per capita GDP .
+
+## INSIGHTS
+- Tertiary Sector contributes the most to the GSDP overall.
+- Category of states which performs equally good in all sub sectors performs better as compared to over dependency on single sub sector.
+- Agriculture is a top contributor in all the categories of states. No doubt India is a agriculture based economy.
+- Real estate is one such sub sector whose contribution is gradually increasing from C4 to C1.
+- The higher the drop outs in upper primary education lower is the per capita GDP.
+
+
+
+## RECOMMENDATION
+
+- ### For C3 and C4 :
+Government should reduce the over-dependence of the rural population on agriculture as a source of income . A suitable push needs to be given to
+infrastructure development ,industrial and services sector growth in rural areas. It is also important to impart skills to the rural workforce appropriately to enable them to get absorbed in the non-agriculture sector.
+
+- ### For C1 and C2 : 
+India being a consumer driven economy, it would be a wise decision to invest in manufacturing sector . India is also aggressively working on “Make in India” , so its better to align all the states to that vision. This will not only generate more employment but also will increase the purchasing power of the population. This will encourage people to invest and will help the real estate sector grow which is already the leader in GDP.
+
+- Government should also invest in construction sector as a better infrastructure would ease the transfer of the manufactured goods to other states. This will improve trade relations among the states resulting in overall improvement in GDP . 
+- The upper primary education is more negatively correlated with the per capita GDP as compared to primary and secondary education. We can infer that, the higher the drop outs in Upper primary education, the lower will be the per capita GDP. Government should take necessary steps like funding schools or reducing the fee to reduce the dropouts.
+- Government should also educate the ignorant parents on importance of primary education (which is least correlated to per capita GDP) . Increase in number of enrolments to primary education would improve the chances to transition to upper primary and thereby improving the numbers in upper primary education.
+- Tertiary sector (Financial services, Public administration, Railway etc.) ,being the highest contributor creates a lot of job opportunities for skilled labour. Improving the dropout rates will generate more skilled labour which in turn will help the tertiary sector to prosper.
+
