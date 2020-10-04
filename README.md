@@ -1,6 +1,6 @@
-# Gross Domestic Product analysis of India 
+# EDA on Gross Domestic Product of India 
 
-## Project Brief:
+## Goals and Objectives:
 The objective of this assignment is to provide top-level recommendations to the Chief Ministers (CMs) of various states of India, which will help them prioritise areas of development for their respective states.
 The overall goal of this project is to help the CMs focus on areas that will foster economic development for their respective states. Since the most common measure of economic development is the GDP, We will analyse the GDP of the various states of India and suggest ways to improve it.
 
