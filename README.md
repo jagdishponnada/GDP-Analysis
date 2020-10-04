@@ -31,6 +31,8 @@ India ranks 11th in the world in terms of total GDP; however, it lies at the 139
 
 All Datasets are goverment dataseet from (URL: https://data.gov.in/ )
 
+## Preprocessing and Methodologies
+In this assignment we used various EDA techniques to explore the dataset.We took the help of visualization to do gain insights from the dataset. We used matplotlib and seaborn libraries for visualization. We did null value imputation on few columns where necessary with central values.
 
 
 ## Key Results
