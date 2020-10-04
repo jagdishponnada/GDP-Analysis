@@ -42,7 +42,7 @@ In this assignment we used various EDA techniques to explore the dataset.We took
 - The percentage contribution of Primary, Secondary and Tertiary sectors to the overall GSDP of all states combined is 20,26 and 46 percentage respectively.
 - Dropout in upper primary has highest negative correlation with the per capita GDP .
 
-## INSIGHTS
+## Insights
 - Tertiary Sector contributes the most to the GSDP overall.
 - Category of states which performs equally good in all sub sectors performs better as compared to over dependency on single sub sector.
 - Agriculture is a top contributor in all the categories of states. No doubt India is a agriculture based economy.
@@ -51,7 +51,7 @@ In this assignment we used various EDA techniques to explore the dataset.We took
 
 
 
-## RECOMMENDATION
+## Recommendations
 
 - ### For C3 and C4 :
 Government should reduce the over-dependence of the rural population on agriculture as a source of income . A suitable push needs to be given to
